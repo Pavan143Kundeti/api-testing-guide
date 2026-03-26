@@ -34,7 +34,7 @@ A comprehensive guide to API testing fundamentals, covering everything from basi
 ### Module 2: Manual Testing with Postman
 - [Postman Introduction and Setup](02_Postman_Introduction_and_Setup.md)
 - [Creating Custom APIs and JSON Fundamentals](03_Creating_Custom_APIs_and_JSON_Fundamentals.md)
-- Request/Response Validation (Coming Soon)
+- [API Response Validation and Testing](04_API_Response_Validation_and_Testing.md)
 - Test Collections and Environments (Coming Soon)
 - Advanced Postman Features (Coming Soon)
 

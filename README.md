@@ -31,11 +31,11 @@ A comprehensive guide to API testing fundamentals, covering everything from basi
 - HTTP Methods and Status Codes
 - API vs Web Services
 
-### Module 2: Manual Testing (Coming Soon)
-- Postman Basics
-- Request/Response Validation
-- Test Collections
-- Environment Management
+### Module 2: Manual Testing with Postman
+- [Postman Introduction and Setup](02_Postman_Introduction_and_Setup.md)
+- Request/Response Validation (Coming Soon)
+- Test Collections and Environments (Coming Soon)
+- Advanced Postman Features (Coming Soon)
 
 ### Module 3: Automation (Coming Soon)
 - REST Assured Framework

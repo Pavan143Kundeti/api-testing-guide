@@ -40,6 +40,7 @@ A comprehensive guide to API testing fundamentals, covering everything from basi
 - [Data-Driven Testing with Postman](07_Data_Driven_Testing_with_Postman.md)
 - [Advanced Postman Features](08_Advanced_Postman_Features.md)
 - [Real-World API Testing: Pet Store and E-Commerce](09_Real_World_API_Testing_Pet_Store_and_E_Commerce.md)
+- [OpenCart API Testing and Collection Execution](10_OpenCart_API_Testing_and_Collection_Execution.md)
 
 ### Module 3: Automation (Coming Soon)
 - REST Assured Framework

@@ -38,7 +38,7 @@ A comprehensive guide to API testing fundamentals, covering everything from basi
 - [Postman Scripts and Variables](05_Postman_Scripts_and_Variables.md)
 - [API Chaining and Data Flow](06_API_Chaining_and_Data_Flow.md)
 - [Data-Driven Testing with Postman](07_Data_Driven_Testing_with_Postman.md)
-- Advanced Postman Features (Coming Soon)
+- [Advanced Postman Features](08_Advanced_Postman_Features.md)
 
 ### Module 3: Automation (Coming Soon)
 - REST Assured Framework

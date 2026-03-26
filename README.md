@@ -1,0 +1,85 @@
+# API Testing Guide
+
+A comprehensive guide to API testing fundamentals, covering everything from basic concepts to advanced testing strategies.
+
+## 📚 What You'll Learn
+
+- **API Fundamentals**: Understanding client-server architecture and API basics
+- **Testing Types**: Manual and automated API testing approaches
+- **Tools & Technologies**: Postman, REST Assured, and other popular tools
+- **Best Practices**: Industry-standard testing methodologies
+- **Real-world Examples**: Practical scenarios and use cases
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Basic understanding of HTTP protocols
+- Knowledge of JSON/XML formats
+- Familiarity with testing concepts
+
+### Quick Start
+1. Clone this repository
+2. Start with `01_API_Testing_Fundamentals.md`
+3. Follow the structured learning path
+4. Practice with the provided examples
+
+## 📖 Course Structure
+
+### Module 1: Fundamentals
+- [API Testing Fundamentals](01_API_Testing_Fundamentals.md)
+- Client-Server Architecture
+- HTTP Methods and Status Codes
+- API vs Web Services
+
+### Module 2: Manual Testing (Coming Soon)
+- Postman Basics
+- Request/Response Validation
+- Test Collections
+- Environment Management
+
+### Module 3: Automation (Coming Soon)
+- REST Assured Framework
+- Test Script Development
+- CI/CD Integration
+- Reporting and Analytics
+
+## 🛠️ Tools Covered
+
+- **Manual Testing**: Postman, Insomnia, Thunder Client
+- **Automation**: REST Assured, Requests (Python), Newman
+- **Supporting Tools**: Git, Jenkins, TestNG, JUnit
+
+## 🎯 Target Audience
+
+- QA Engineers transitioning to API testing
+- Developers wanting to learn testing skills
+- Students learning software testing
+- Anyone interested in API testing fundamentals
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to:
+- Report issues or bugs
+- Suggest improvements
+- Add new examples or use cases
+- Fix typos or enhance documentation
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+If you have questions or suggestions, please open an issue or reach out through GitHub.
+
+---
+
+⭐ **Star this repository** if you find it helpful!
+
+## 📈 Learning Path
+
+```
+Start Here → API Fundamentals → Manual Testing → Automation → Advanced Topics
+```
+
+Happy Testing! 🧪
